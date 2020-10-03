@@ -87,3 +87,9 @@ body{
   margin: 4px 2px;
   cursor: pointer;
 }
+.mountain{
+  width:100%;
+}
+.top-cloud{
+ margin-right: 200px;
+}
